@@ -61,5 +61,5 @@ public class PIDControledDriveTrain extends BasicDriveTrain{
 
     }
 
-    //TODO:настроить и проверить эту хуйню (кароч прожебажить это дело)
+    //TODO:настроить и проверить эту прогу (кароч прожебажить это дело)
 }
